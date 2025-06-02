@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - Bullets
+  - XP/GOLD
+  - Water
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 278000187
+    locked: 0
+  - name: Ground
+    uniqueID: 2188252007
+    locked: 0
+  - name: Vegatation
+    uniqueID: 4200575967
+    locked: 0
+  - name: XP/GOLD
+    uniqueID: 4023003987
+    locked: 0
+  - name: Enemies
+    uniqueID: 4210124425
+    locked: 0
+  - name: Player
+    uniqueID: 2784626789
+    locked: 0
+  - name: UI
+    uniqueID: 3299159025
+    locked: 0
+  m_RenderingLayers:
+  - Default

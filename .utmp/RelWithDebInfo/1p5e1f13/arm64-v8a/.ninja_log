@@ -1,0 +1,12 @@
+# ninja log v5
+9	309	7703130471371342	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	e91857903568491c
+310	629	7703130473472010	C:/Users/Berkant/Documents/GitHub/Rise Of Shadows/Rise Of Shadows/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p5e1f13/obj/arm64-v8a/libswappywrapper.so	df9ffa94c2ef1f6a
+6	1613	7703130484759598	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c4c7cf310ea1f6ec
+5	1698	7703130485629798	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	51dfcdbddc419cd0
+9	1706	7703130485704906	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5aa79a159129e10a
+3	1777	7703130486370755	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	202de967e3874934
+4	1859	7703130487211547	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b8e06fb3465ba83b
+8	1921	7703130487748186	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5c6e2ffe0ddfcf93
+7	2065	7703130489273787	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3ca035ff1157a4a2
+1	2255	7703130491106881	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c2fac337e77b0172
+2255	2319	7703130491810969	C:/Users/Berkant/Documents/GitHub/Rise Of Shadows/Rise Of Shadows/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1p5e1f13/obj/arm64-v8a/libgame.so	920dc895b6bd9aaa
