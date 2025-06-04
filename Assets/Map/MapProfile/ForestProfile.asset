@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e679a965158153c47bf5ba43f2bb3961, type: 3}
+  m_Name: ForestProfile
+  m_EditorClassIdentifier: 
+  groundPrefab: {fileID: 5628209780055932822, guid: 5eb39bcbd8ca20940a6ab9c63426059e, type: 3}
+  flowerPrefabs:
+  - {fileID: 8572653942295881626, guid: 964fc310696493b41a1d2689627d1f00, type: 3}
+  - {fileID: 1466178349349351148, guid: 98e8c9fc7dfa8494caa3fa76713bd394, type: 3}
+  - {fileID: 8133242214803033574, guid: e1a7e1d4e3635a64da3ac586bcda42c2, type: 3}
+  - {fileID: 4894578802384147483, guid: d94ca949d4e9ac5449ae5c54fd0e1e1e, type: 3}
+  bushPrefab:
+  - {fileID: 5500233739723347301, guid: 0280fec0f5f8bcb4abc7a92226193d3a, type: 3}
+  mushroomPrefab:
+  - {fileID: 7913770043659956906, guid: f8b86f38643d49d42a5ba390e997c49d, type: 3}
+  rockPrefab:
+  - {fileID: 5933015016080410705, guid: 62772231605550f4daa0324dad1088f1, type: 3}
+  chestPrefab:
+  - {fileID: 4068931475841434688, guid: 3cd058bb1da9228479d9282cccfd0e1b, type: 3}
+  flowerCount: 1000
+  bushCount: 400
+  mushroomCount: 250
+  rockCount: 300
+  chestCount: 50
+  mapSize: {x: 200, y: 200}
+  minObjectDistance: 2.5
